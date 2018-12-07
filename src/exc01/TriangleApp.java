@@ -32,6 +32,4 @@ public class TriangleApp {
         String s = getSting();
         return Integer.parseInt(s);
     }
-
-
 }

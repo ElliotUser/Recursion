@@ -1,7 +1,7 @@
 package exc02;
 
 public class Factorial {
-    public int factorial(int n){
+    public long factorial(long n){
         if(n==0)
             return 1;
         else

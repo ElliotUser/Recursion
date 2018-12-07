@@ -5,7 +5,9 @@ public class FactorialApp {
         Factorial f = new Factorial();
         System.out.println("Факториал 0 равен "+f.factorial(0));
         System.out.println("Факториал 5 равен "+f.factorial(5));
-        System.out.println("Факториал 10 равен "+f.factorial(10));
+        System.out.println("Факториал 7 равен "+f.factorial(7));
+        System.out.println("Факториал 10 равен "+f.factorial(24));
+
 
     }
 }
